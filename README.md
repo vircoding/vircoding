@@ -1,17 +1,14 @@
 # 💫 About Me:
 
-Hi and `welcome` to me `profile` 🤟🏻🤟🏻🤟🏻
+Hi and `welcome` to my `profile` 🤟🏻🤟🏻🤟🏻
 
-`const` me = [
-
-<ul>
-  <li style="all: unset;">"Web Developer 📗",</li>
-  <br>
-  <li style="all: unset;">"Data Analyst 📘",</li>
-  <br>
-  <li style="all: unset;">"Control Engineering Student 📙"</li>
-</ul>
+<pre>
+const me = [
+  "Web Developer 📗",
+  "Data Analyst 📘",
+  "Control Engineering Student 📙"
 ]
+</pre>
 
 I'd like to `collaborate` on as many `projects` as I can ✨✨✨
 
