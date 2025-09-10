@@ -4,10 +4,10 @@ Hi and `welcome` to my `profile`
 
 <pre>
 const me = [
+  "Control Engineering 🤨"
   "Fullstack Web Developer 😃",
   "UI, UIX Designer 🙂",
   "Data Analyst 😐",
-  "Control Engineering Student 🤨"
 ]
 </pre>
 
