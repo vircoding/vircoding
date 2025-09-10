@@ -4,7 +4,7 @@ Hi and `welcome` to my `profile`
 
 <pre>
 const me = [
-  "Control Engineering 🤨"
+  "Control Engineer 🤨"
   "Fullstack Web Developer 😃",
   "UI, UIX Designer 🙂",
   "Data Analyst 😐",
